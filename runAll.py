@@ -10,7 +10,7 @@ import pythoncom
 import common.Log
 
 send_mail = SendMail(        username='327169600@qq.com',
-        passwd='wbyqcrsctfxycacj',
+        passwd='xxxxxxxxxxx',
         recv=['pengmingming500@qq.com', 'test002@qq.com'],
         title='发送邮件20180205',
         content='测试发送邮件，qq发件，接收方一个是163邮箱，另一个是qq邮箱。20180205',
